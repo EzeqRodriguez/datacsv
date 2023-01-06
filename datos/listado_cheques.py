@@ -16,7 +16,7 @@ def menu():
 
 def verCheques():
 
-    with open('Sprint4/test.csv', 'r') as dato:
+    with open('test.csv', 'r') as dato:
 
         cheques = csv.DictReader(dato)
         
@@ -49,7 +49,7 @@ def verCheques():
 
 def verAprobado():
 
-    with open('Sprint4/test.csv', 'r') as dato:
+    with open('test.csv', 'r') as dato:
 
         cheques = csv.DictReader(dato)
         
@@ -81,7 +81,7 @@ def verAprobado():
         
 def verRechazado():
 
-    with open('Sprint4/test.csv', 'r') as dato:
+    with open('test.csv', 'r') as dato:
 
         cheques = csv.DictReader(dato)
         
