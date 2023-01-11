@@ -1,4 +1,6 @@
 Filtrar datos de un archivo CSV mediante DNI
 
+-----------------------------------------------------------------------------------------------------------
 
-![data](https://user-images.githubusercontent.com/105322427/211100813-3c0f14d1-03f7-4bc2-b662-e9ebcf351da5.jpg)
+![dt](https://user-images.githubusercontent.com/105322427/211700002-e0f946b7-5755-46e4-83b7-0101b5cb26e3.png)
+
